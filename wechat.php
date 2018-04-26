@@ -14,7 +14,7 @@ class Wechat
 	// appkey
 	public $KEY;
 	
-	//LINUX 使用相对路径 物理路径  /www/web/test_zqw/public_html/uploads/2018/04/GqdlOsJgYusF.pem
+	//LINUX 使用相对路径 物理路径  /www/web/xxx/uploads/2018/04/GqdlOsJgYusF.pem
 	//windows服务器上证书路径使用绝对路径。
 	public $SSLCERT_PATH;
 	public $SSLKEY_PATH;
